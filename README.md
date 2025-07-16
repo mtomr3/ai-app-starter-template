@@ -5,7 +5,7 @@ A modern, production-ready React TypeScript template for building AI-powered app
 ## 🌐 Live Demo
 
 - **GitHub Repository**: https://github.com/mtomr3/ai-app-starter-template
-- **Live Demo**: https://ai-app-starter-template-jogyl22f3.vercel.app
+- **Live Demo**: https://ai-app-starter-template.vercel.app
 
 ## ✨ Features
 
