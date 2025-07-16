@@ -2,6 +2,11 @@
 
 A modern, production-ready React TypeScript template for building AI-powered applications. This template provides a solid foundation with the latest tools and best practices.
 
+## 🌐 Live Demo
+
+- **GitHub Repository**: https://github.com/mtomr3/ai-app-starter-template
+- **Live Demo**: https://ai-app-starter-template-jogyl22f3.vercel.app
+
 ## ✨ Features
 
 - **Vite** - Fast build tool and development server
