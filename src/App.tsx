@@ -11,9 +11,9 @@ function App() {
   return (
     <QueryClientProvider client={queryClient}>
       <TooltipProvider>
+        <Toaster />
+        <Sonner />
         <HashRouter>
-          <Toaster />
-          <Sonner />
           <Routes>
             <Route path="/" element={<Index />} />
           </Routes>
