@@ -127,8 +127,15 @@
 @layer base {
   * {
     @apply border-border outline-ring/50;
+    scrollbar-color: hsl(var(--muted-foreground)) transparent !important;
   }
   body {
     @apply bg-background text-foreground;
+  }
+  *::-webkit-scrollbar {
+    background-color: transparent !important;
+  }
+  *::-webkit-scrollbar-track {
+    background-color: transparent !important;
   }
 }
